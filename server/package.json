@@ -1,0 +1,21 @@
+{
+  "name": "hw1_0613313",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "moment": "^2.24.0",
+    "mongodb": "^3.5.5",
+    "net": "^1.0.2",
+    "sqlite3": "^4.1.1",
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node main.js"
+  },
+  "author": "Euphokumiko",
+  "license": "ISC"
+}
